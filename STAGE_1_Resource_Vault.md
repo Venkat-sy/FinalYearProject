@@ -1,18 +1,18 @@
 # Resource Vault: Deep Dive into AI & Agriculture
 
-This document is a curated collection of highly accessible articles and video topics to help you build a deep, intuitive understanding of your project.
+This document is a curated collection of highly accessible articles and direct video links to help you build a deep, intuitive understanding of your project.
 
 ## 1. Core Concepts to Learn (Videos & Articles)
 
 ### Machine Learning & XGBoost (Your Predictive Engine)
-*   **Video to Search:** Go to YouTube and search **"Krish Naik XGBoost Intuition"**. (Krish Naik is an incredibly popular Indian AI educator whose videos are never region-locked and are perfectly tailored for engineering students).
-*   **Article:** [A Gentle Introduction to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) (This website is globally accessible and doesn't block traffic).
+*   **Video:** [Krish Naik XGBoost Intuition](https://www.youtube.com/watch?v=gPciUPwWJQQ) 
+*   **Article:** [A Gentle Introduction to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 *   **Why it matters:** You need to know why XGBoost is chosen over simple Linear Regression.
 *   **Summary Verdict (TL;DR):** XGBoost is a highly optimized "committee" of decision trees. Instead of relying on one big rule, it uses hundreds of small rules and learns from its previous mistakes. It is extremely fast and accurate.
 
 ### Explainable AI (Your Trust Builder)
-*   **Video to Search:** Go to YouTube and search **"CampusX Explainable AI SHAP"**. 
-*   **Article:** [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/) (This is a free, open-source book hosted on GitHub, guaranteed to work anywhere).
+*   **Video:** [CampusX Explainable AI SHAP](https://www.youtube.com/watch?v=8EQwpmK49sk) 
+*   **Article:** [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 *   **Summary Verdict (TL;DR):** Traditional AI is a "Black Box". SHAP acts as a translator. It breaks down the AI's final decision and assigns a percentage of "blame" or "credit" to each input (e.g., "I recommended Urea because the soil pH contributed +40% to this decision").
 
 ### Digital Twins in Agriculture (Your Simulation Engine)

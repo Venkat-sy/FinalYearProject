@@ -4,7 +4,7 @@
 **Domain:** Precision Agriculture / Artificial Intelligence  
 **Target Context:** Indian Agriculture (Smallholder Farms, Monsoonal Climate)
 
-As your guide, I have structured this roadmap to take you from the theoretical research phase all the way to a fully deployed software application. Since this project is a massive learning opportunity, every stage includes **Learning Resources** tailored to be fully accessible from India, focusing on popular, free, and un-gated Indian tech educators.
+As your guide, I have structured this roadmap to take you from the theoretical research phase all the way to a fully deployed software application. Since this project is a massive learning opportunity, every stage includes **Learning Resources** tailored to be fully accessible from India, using direct links to popular, free Indian tech educators.
 
 ---
 
@@ -25,6 +25,7 @@ Before writing any code, you must define the "blueprint" of your project.
     *   **Frontend (User Interface):** HTML/CSS/JavaScript or React.
 *   **Deliverable:** A System Architecture Diagram.
 *   **Learning Resources:**
+    *   **[Video]** [CampusX System Architecture for Machine Learning Projects](https://www.youtube.com/watch?v=bHK1fE_BUms)
     *   **[Search Google]** "Software Architecture Diagrams Best Practices" (Search this to see visual examples of how APIs connect to databases).
 
 ---
@@ -38,8 +39,8 @@ AI is only as good as the data you feed it. You must learn how to clean data and
     *   **Exploratory Data Analysis (EDA):** Create graphs to see how Nitrogen levels correlate with crop yield.
 *   **Deliverable:** A Jupyter Notebook (`.ipynb`) containing all your data cleaning steps.
 *   **Learning Resources:**
-    *   **[Video - CodeWithHarry]** Search YouTube for: *"CodeWithHarry Pandas Tutorial in Hindi"* (The easiest way to learn data manipulation if you prefer Hindi/English mix).
-    *   **[Video - Krish Naik]** Search YouTube for: *"Krish Naik Exploratory Data Analysis (EDA) playlist"* (The absolute standard for ML students in India).
+    *   **[Video]** [CodeWithHarry Pandas Tutorial in Hindi](https://www.youtube.com/watch?v=RhEjmHeDNoA) 
+    *   **[Video]** [Krish Naik Exploratory Data Analysis (EDA)](https://www.youtube.com/watch?v=ioN1jcWxbv8)
 
 ---
 
@@ -51,9 +52,9 @@ This is where you build the "Brain" of your project.
     *   **The XAI Integration:** Write the Python code using the `shap` library to generate visual explanations.
 *   **Deliverable:** A trained `.pkl` (pickle) model file.
 *   **Learning Resources:**
-    *   **[Video - Krish Naik]** Search YouTube for: *"Krish Naik Random Forest Algorithm Explained"*
-    *   **[Video - Krish Naik]** Search YouTube for: *"Krish Naik XGBoost Algorithm"* 
-    *   **[Video - CampusX]** Search YouTube for: *"CampusX Explainable AI SHAP Tutorial"*
+    *   **[Video]** [Krish Naik Random Forest Algorithm Explained](https://www.youtube.com/watch?v=nxFG5xdpDto)
+    *   **[Video]** [Krish Naik XGBoost Algorithm Intuition](https://www.youtube.com/watch?v=gPciUPwWJQQ) 
+    *   **[Video]** [CampusX Explainable AI SHAP Tutorial](https://www.youtube.com/watch?v=8EQwpmK49sk)
 
 ---
 
@@ -76,8 +77,8 @@ Making your AI usable for a farmer or end-user.
     *   **Frontend:** Build a web interface.
 *   **Deliverable:** A fully functioning local web application.
 *   **Learning Resources:**
-    *   **[Video - CodeWithHarry]** Search YouTube for: *"CodeWithHarry Flask Tutorial"* or *"CodeWithHarry HTML CSS"* (He has complete, 1-shot videos that are extremely beginner-friendly).
-    *   **[Tutorial]** [FastAPI Official Documentation](https://fastapi.tiangolo.com/tutorial/) (The cleanest documentation available).
+    *   **[Video]** [CodeWithHarry Flask Tutorial](https://www.youtube.com/watch?v=DD3ou9sa3Z8)
+    *   **[Tutorial]** [FastAPI Official Documentation](https://fastapi.tiangolo.com/tutorial/) 
 
 ---
 
@@ -89,4 +90,4 @@ Polishing the diamond before final submission.
     *   Write the Final Project Report / Thesis.
 *   **Deliverable:** Final Thesis Document and a deployed app on the internet.
 *   **Learning Resources:**
-    *   **[Video - Krish Naik]** Search YouTube for: *"Krish Naik End to End Machine Learning Deployment"* (He covers deploying to platforms like Render or AWS for free).
+    *   **[Video]** [Krish Naik End to End Machine Learning Deployment](https://www.youtube.com/watch?v=S_F_c9e2bz4)
