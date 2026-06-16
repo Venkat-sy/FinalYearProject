@@ -25,8 +25,8 @@ If you need to break down: *"What is Explainable AI or a Digital Twin?"*
 
 ## 5. Anticipated Mentor Questions & How to Tackle Them
 
-*   **Mentor:** *"Why didn't you look at conference papers?"*
-    *   **Your Answer:** "I specifically targeted high-impact Journal and Transaction papers from 2023 to 2026 to ensure the foundation of my project is built on rigorously peer-reviewed and validated methodologies rather than preliminary conference findings."
+*   **Mentor:** *"Just to recap, why did we decide to exclude conference papers?"*
+    *   **Your Answer:** "As per your instruction, we focused strictly on Journal and Transaction papers. This ensures that the foundation of our project relies on the highest standard of rigorously peer-reviewed and validated methodologies, avoiding preliminary or incomplete findings often found in conference proceedings."
 *   **Mentor:** *"How is your proposed system different from existing agricultural apps?"*
     *   **Your Answer:** "Most existing apps take soil data and output a static NPK number. My literature survey identified that this 'Predict Only' model is flawed. My proposed system is 'Predict + Simulate'. It uses XAI to explain the recommendation and Digital Twin concepts to simulate 'what-if' climate scenarios."
 *   **Mentor:** *"Are Digital Twins practical for small Indian farms?"*
