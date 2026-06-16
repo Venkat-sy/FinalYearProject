@@ -25,8 +25,7 @@ Before writing any code, you must define the "blueprint" of your project.
     *   **Frontend (User Interface):** HTML/CSS/JavaScript or React.
 *   **Deliverable:** A System Architecture Diagram.
 *   **Learning Resources:**
-    *   **[Video - CampusX]** Search YouTube for: *"CampusX System Architecture for Machine Learning Projects"* (Excellent Indian channel for project structuring).
-    *   **[Article]** [Software Architecture Diagrams Explained](https://www.freecodecamp.org/news/software-architecture-diagrams-explained/)
+    *   **[Search Google]** "Software Architecture Diagrams Best Practices" (Search this to see visual examples of how APIs connect to databases).
 
 ---
 
@@ -65,7 +64,7 @@ This is your unique selling point (USP).
     *   Build a Python logic module that modifies predictions based on hypothetical "what-if" scenarios.
 *   **Deliverable:** The Simulation logic integrated into your main backend.
 *   **Learning Resources:**
-    *   **[Article]** [Python API Tutorial](https://www.freecodecamp.org/news/python-api-tutorial/) (Guaranteed to work, teaches how to pull live weather data).
+    *   **[API Doc]** [Python Requests Library Documentation](https://requests.readthedocs.io/en/latest/) (The official, guaranteed-to-work documentation for pulling live web data in Python).
 
 ---
 

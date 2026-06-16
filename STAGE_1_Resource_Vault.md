@@ -20,7 +20,7 @@ This document is a curated collection of highly accessible articles and video to
 *   **Summary Verdict (TL;DR):** A Digital Twin is a software replica of a physical farm. By feeding real-world soil data and weather forecasts into this software replica, you can fast-forward time to see what will happen to the crops without risking a real-world harvest. It's the ultimate "What-If" engine.
 
 ## 2. The Indian Agriculture Context (News & Reports)
-*   **News Article:** [How AI is Transforming Indian Agriculture (IndiaAI Govt Portal)](https://indiaai.gov.in/article/how-ai-is-transforming-indian-agriculture)
+*   **Search Google for:** "How AI is Transforming Indian Agriculture"
     *   **Summary Verdict (TL;DR):** The biggest hurdles in Indian farming are data localization (massive micro-climate variations) and delivering AI insights to farmers via simple interfaces rather than complex dashboards.
 *   **Context:** The Soil Health Card (SHC) scheme tests soil for basic macronutrients (N, P, K) and pH. The limitation of the real-world SHC is that it's a static snapshot taken once every few years; your AI needs to make it dynamic.
 
