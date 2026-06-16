@@ -19,7 +19,7 @@ This document is a curated collection of links, articles, videos, and problem an
 *   **Why it matters:** Understanding that a Digital Twin isn't just a 3D model—it's a mathematical simulation running parallel to the real world.
 
 ## 2. The Indian Agriculture Context (News & Reports)
-*   **News Article:** [How AI is helping Indian farmers fight climate change (World Economic Forum)](https://www.weforum.org/agenda/2024/01/ai-india-agriculture-farming/)
+*   **News Article:** [How AI is Transforming Indian Agriculture (IndiaAI Govt Portal)](https://indiaai.gov.in/article/how-ai-is-transforming-indian-agriculture)
 *   **Government Resource:** [Soil Health Card Scheme Dashboard (Govt of India)](https://soilhealth.dac.gov.in/)
     *   *Note:* Spend 10 minutes looking at what parameters the Indian government actually tests for (N, P, K, pH, EC). This is your foundation.
 

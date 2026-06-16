@@ -28,7 +28,7 @@ Before writing any code, you must define the "blueprint" of your project.
 *   **Deliverable:** A System Architecture Diagram showing how the User Interface talks to the Backend, which queries the ML Model and Weather API.
 *   **Learning Resources:**
     *   **[Video]** [System Architecture Design Basics](https://www.youtube.com/watch?v=Z3HlsX_YMAc)
-    *   **[Article]** [How to draw a system architecture diagram](https://www.lucidchart.com/blog/how-to-draw-system-architecture-diagrams)
+    *   **[Article]** [Software Architecture Diagrams Explained](https://www.freecodecamp.org/news/software-architecture-diagrams-explained/)
     *   **[Resource]** [Kaggle Indian Agriculture Datasets Hub](https://www.kaggle.com/search?q=indian+agriculture)
 
 ---
@@ -71,7 +71,7 @@ This is your unique selling point (USP) that separates your project from generic
 *   **Deliverable:** The Simulation logic/script integrated into your main backend.
 *   **Learning Resources:**
     *   **[API Doc]** [OpenWeatherMap API (Learn how to pull weather data into your code)](https://openweathermap.org/api)
-    *   **[Article]** [Python for API Automation (To connect weather data to your simulation)](https://realpython.com/api-integration-in-python/)
+    *   **[Article]** [Python API Tutorial (To connect weather data to your simulation)](https://www.freecodecamp.org/news/python-api-tutorial/)
 
 ---
 
@@ -84,7 +84,7 @@ Making your AI usable for a farmer or end-user.
 *   **Deliverable:** A fully functioning local web application.
 *   **Learning Resources:**
     *   **[Video]** [FastAPI Tutorial in 1 Hour (Learn to make Python APIs)](https://www.youtube.com/watch?v=SORiTsvnU28)
-    *   **[Tutorial]** [Connecting a Python Backend to a Frontend Web App](https://realpython.com/fastapi-python-web-apis/)
+    *   **[Tutorial]** [FastAPI Official Documentation (Best place to learn)](https://fastapi.tiangolo.com/tutorial/)
     *   **[Video]** [React JS Crash Course (If you choose React for the frontend)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
     *   **[Course]** [FreeCodeCamp HTML/CSS Basics (If you want to build the UI from scratch)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
